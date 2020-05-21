@@ -1,11 +1,9 @@
 # Full-Stack Developer Sample Project
 1.	Enhanced the velocity forms with jquery scripts to validate the User.
-
-	a.	A small css class is added for name field to highlight the validation error.
+	a.	A small css class is added for name field to highlight the validation error. 
 	b.	Simple alerts are used for any validation or notification.
 	
 2.	Frontend Validation	
-
 	a.	Required validation for not null fields
 	b.	Jquery script validation for name, name field can take only alphabets with space.
 	c.	On submit encrypted password with base64.
